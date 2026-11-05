@@ -1,0 +1,15 @@
+<project xmlns="http://apache.org" xmlns:xsi="http://w3.org" xsi:schemaLocation="http://apache.org https://apache.org">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.qualitytesting</groupId>
+  <artifactId>AutomationProject</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+
+  <dependencies>
+      <!-- Selenium Java Dependency -->
+      <dependency>
+          <groupId>org.seleniumhq.selenium</groupId>
+          <artifactId>selenium-java</artifactId>
+          <version>4.25.0</version>
+      </dependency>
+  </dependencies>
+</project>
